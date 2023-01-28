@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gunda Bhavani</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HN4n976AaIIUSuL457Ha5zMeXVfY2KJCYg&usqp=CAU">
-- 🔭 I’m currently working on **python & Html**
+- 🔭 I’m currently working on **python **
 
 - 🌱 I’m currently learning **python,Html,SQL,Advanced Excel,Java**
 
